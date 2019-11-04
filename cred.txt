@@ -1,0 +1,18 @@
+Inter-Pacific Study and Migration Consultancy
+00webhost Account {
+    email = renterjohnaride@gmail.com
+    password = ipmscis123
+}
+
+website ftp {
+   host = files.000webhost.com
+   port = 21
+   username = ipmsc
+   password = CLjgmlIEvvwu1YbcsFTI
+}
+
+ipmsc db {
+   database = id8158265_ipmsc_db
+   username = id8158265_ipmsc_user
+   password = ipmsc_password
+}
